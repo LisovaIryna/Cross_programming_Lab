@@ -1,0 +1,16 @@
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\ConsoleMySin\obj\Debug\netcoreapp3.1\ConsoleMySin.csprojAssemblyReference.cache
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\ConsoleMySin\obj\Debug\netcoreapp3.1\ConsoleMySin.AssemblyInfoInputs.cache
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\ConsoleMySin\obj\Debug\netcoreapp3.1\ConsoleMySin.AssemblyInfo.cs
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\ConsoleMySin\obj\Debug\netcoreapp3.1\ConsoleMySin.csproj.CoreCompileInputs.cache
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\ConsoleMySin\bin\Debug\netcoreapp3.1\ConsoleMySin.exe
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\ConsoleMySin\bin\Debug\netcoreapp3.1\ConsoleMySin.deps.json
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\ConsoleMySin\bin\Debug\netcoreapp3.1\ConsoleMySin.runtimeconfig.json
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\ConsoleMySin\bin\Debug\netcoreapp3.1\ConsoleMySin.runtimeconfig.dev.json
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\ConsoleMySin\bin\Debug\netcoreapp3.1\ConsoleMySin.dll
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\ConsoleMySin\bin\Debug\netcoreapp3.1\ConsoleMySin.pdb
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\ConsoleMySin\bin\Debug\netcoreapp3.1\MyLib.dll
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\ConsoleMySin\bin\Debug\netcoreapp3.1\MyLib.pdb
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\ConsoleMySin\obj\Debug\netcoreapp3.1\ConsoleMySin.csproj.CopyComplete
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\ConsoleMySin\obj\Debug\netcoreapp3.1\ConsoleMySin.dll
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\ConsoleMySin\obj\Debug\netcoreapp3.1\ConsoleMySin.pdb
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\ConsoleMySin\obj\Debug\netcoreapp3.1\ConsoleMySin.genruntimeconfig.cache

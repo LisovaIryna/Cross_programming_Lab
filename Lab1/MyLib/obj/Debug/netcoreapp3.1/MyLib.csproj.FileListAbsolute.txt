@@ -1,0 +1,9 @@
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\MyLib\obj\Debug\netcoreapp3.1\MyLib.AssemblyInfoInputs.cache
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\MyLib\obj\Debug\netcoreapp3.1\MyLib.AssemblyInfo.cs
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\MyLib\obj\Debug\netcoreapp3.1\MyLib.csproj.CoreCompileInputs.cache
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\MyLib\bin\Debug\netcoreapp3.1\MyLib.deps.json
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\MyLib\bin\Debug\netcoreapp3.1\MyLib.dll
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\MyLib\bin\Debug\netcoreapp3.1\MyLib.pdb
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\MyLib\obj\Debug\netcoreapp3.1\MyLib.dll
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\MyLib\obj\Debug\netcoreapp3.1\MyLib.pdb
+C:\К19-2\2 курс\2 семестр\Крос-платформене програмування\Виконані завдання\Lab1\Lab1\MyLib\obj\Debug\netcoreapp3.1\MyLib.csprojAssemblyReference.cache
